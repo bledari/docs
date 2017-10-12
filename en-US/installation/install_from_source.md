@@ -15,6 +15,7 @@ We are going to create a new user called `git` and install/setup everything unde
 ```sh
 $ sudo adduser --disabled-login --gecos 'Gogs' git
 ```
+TODO -adapt for centos
 
 ### Third-party Packages
 
